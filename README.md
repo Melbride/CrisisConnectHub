@@ -1,22 +1,36 @@
-<<<<<<< HEAD
-# Community Crisis Platform
+# CrisisConnectHub
 
-Community Crisis Platform is created to address emergency alerts and facilitate resource sharing among community members. I have not finished the project yet...I need to add some styling and also update the phone_number and location in profile details page.
-New Ideas on how the page should look please inform. 
+CrisisConnectHub is a web-based platform designed to improve communication and coordination during emergencies. The platform enables users to share alerts, request resources, and access important information, helping communities respond more effectively during crises.
+
 ## Features
 
-- Emergency alerts
-- Resource sharing
+- Emergency alerts and notifications
+- Resource request and sharing system
 - User profiles
-- Community forums
-- Latest Alerts
-- Contacts
+- Community discussions and updates
+- Latest alerts dashboard
+- Emergency contacts directory
 
-## Installation
+## Technologies Used
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Melbride/Community-Crisis-Platform.git
-=======
-# crisis-management
->>>>>>> f04720d8507c08b26844200634f00d6eb3f72913
+- Python
+- Django
+- HTML
+- CSS
+- JavaScript
+- SQLite
+
+## Project Overview
+
+CrisisConnectHub was developed to address challenges in communication and resource coordination during emergencies. The platform provides a centralized space where communities can share alerts, request assistance, and stay informed during crisis situations.
+
+## Project Status
+
+Completed as a hackathon project focused on leveraging technology to support community preparedness, communication, and emergency response.
+
+## Author
+
+**Brigit Melbride**
+
+- LinkedIn: https://www.linkedin.com/in/brigit-melbride-43b8232b7/
+- GitHub: https://github.com/Melbride
